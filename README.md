@@ -34,16 +34,16 @@ Funky Recruit establishes a dynamic feedback loop for continuous improvement, re
 
 Features
 Interactive Avatar Video:
-![WhatsApp Image 2024-01-15 at 14 00 57_2393fa87](https://github.com/Divyanshu11011/FunkyRecruit/assets/93030810/fb9feab3-3bdb-4c47-b951-f67dbd28570b)
+![WhatsApp Image 2024-01-15 at 14 00 57_2393fa87]
 
 
 Engage users with avatar videos presenting interview questions for a realistic and immersive experience.
 Real-time Feedback:
-![WhatsApp Image 2024-01-15 at 22 50 06_5b855d2c](https://github.com/Divyanshu11011/FunkyRecruit/assets/93030810/0ae3a3f4-6739-44d4-b556-2c8b82823212)
+![WhatsApp Image 2024-01-15 at 22 50 06_5b855d2c]
 
 Receive instant feedback on responses, including assessments of body language and verbal communication.
 Comparison of Answers:
-![WhatsApp Image 2024-01-15 at 22 50 06_5b855d2c](https://github.com/Divyanshu11011/FunkyRecruit/assets/93030810/82845a8c-3a08-4d24-8c98-d021b0443be9)
+![WhatsApp Image 2024-01-15 at 22 50 06_5b855d2c]
 
 
 Store and compare user responses to model answers for a comprehensive and insightful assessment.
@@ -53,6 +53,13 @@ Allow users to decide the number of questions in each mock interview for a perso
 OpenAI API Marking Scheme:
 
 Leverage the power of the official OpenAI API for a sophisticated marking scheme, enhancing the assessment of user responses.
+
+Project Snapshots:-
+![3](https://github.com/Divyanshu11011/FunkyRecruit/assets/93030810/76832388-fa0a-4edf-b8eb-cfc1375d27ef)
+![2](https://github.com/Divyanshu11011/FunkyRecruit/assets/93030810/a537042c-96ff-4f82-b4d3-49a550c55bf1)
+![1](https://github.com/Divyanshu11011/FunkyRecruit/assets/93030810/9bf88d93-d796-4343-95bc-2a7c7bb0624c)
+
+
 Getting Started.
 
 We have also implemented conversion of input text given in voice format to text format for further processing by our application
