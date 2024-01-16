@@ -34,12 +34,17 @@ Funky Recruit establishes a dynamic feedback loop for continuous improvement, re
 
 Features
 Interactive Avatar Video:
+![WhatsApp Image 2024-01-15 at 14 00 57_2393fa87](https://github.com/Divyanshu11011/FunkyRecruit/assets/93030810/fb9feab3-3bdb-4c47-b951-f67dbd28570b)
+
 
 Engage users with avatar videos presenting interview questions for a realistic and immersive experience.
 Real-time Feedback:
+![WhatsApp Image 2024-01-15 at 22 50 06_5b855d2c](https://github.com/Divyanshu11011/FunkyRecruit/assets/93030810/0ae3a3f4-6739-44d4-b556-2c8b82823212)
 
 Receive instant feedback on responses, including assessments of body language and verbal communication.
 Comparison of Answers:
+![WhatsApp Image 2024-01-15 at 22 50 06_5b855d2c](https://github.com/Divyanshu11011/FunkyRecruit/assets/93030810/82845a8c-3a08-4d24-8c98-d021b0443be9)
+
 
 Store and compare user responses to model answers for a comprehensive and insightful assessment.
 Question Quantity Selection:
